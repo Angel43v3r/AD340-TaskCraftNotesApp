@@ -279,4 +279,4 @@ Date: **June 1, 2026** to **June 7, 2026**
 
 ## License
 
-This project is licensed under the MIT License. Please refer to the [LICENSE]() for more details.
+This project is licensed under the MIT License. Please refer to the [LICENSE](https://github.com/Angel43v3r/AD340-TaskCraftNotesApp/blob/master/LICENSE) for more details.
