@@ -74,6 +74,15 @@ Build configuration language: Kotlin DSL (build.gradle.kts).
 
 ## Assignment Instruction
 
+<img src="https://github.com/Angel43v3r/AD340-TaskCraftNotesApp/blob/master/assets/TaskCraftNotes01.png" alt="TaskCraft Notes HomeScreen"
+width="300">
+<img src="https://github.com/Angel43v3r/AD340-TaskCraftNotesApp/blob/master/assets/TaskCraftNotes02.png" alt="TaskCraft Notes Add Notes"
+width="300">
+<img src="https://github.com/Angel43v3r/AD340-TaskCraftNotesApp/blob/master/assets/TaskCraftNotes03.png" alt="TaskCraft Notes HomeScreen with Notes"
+width="300">
+<img src="https://github.com/Angel43v3r/AD340-TaskCraftNotesApp/blob/master/assets/TaskCraftNotes04.png" alt="TaskCraft Notes Swipe to Delete Notes"
+width="300">
+
 ### Requirements & Tasks
 #### Task 1: The Local Data Layer (Room Setup)
 1. Create a `Note` Entity data class:
